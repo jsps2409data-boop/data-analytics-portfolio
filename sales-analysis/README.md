@@ -184,3 +184,12 @@ The insights can support better decision-making in areas such as:
 - Data visualization with Power BI
 - Business insight generation
 - Dashboard design
+
+## Future Improvements
+
+Several additional enhancements could further expand this analysis:
+
+- Incorporate customer segmentation to better understand purchasing patterns.
+- Analyze profit margins by product category to identify the most profitable items.
+- Add interactive dashboard filters for deeper exploration of sales performance.
+- Extend the analysis to include forecasting of future sales trends.
