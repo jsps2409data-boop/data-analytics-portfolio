@@ -118,6 +118,18 @@ These visuals help identify patterns and performance differences across the busi
 
 ---
 
+## Key Insights
+
+The analysis revealed several important patterns in the sales data:
+
+- The **West region generates the highest total revenue**, making it the strongest performing geographic market.
+
+- The **Technology category consistently produces the highest sales**, indicating strong demand for technology-related products.
+
+- Sales show a **clear increase toward the end of the year**, suggesting a seasonal trend in purchasing behavior.
+
+- A **small number of products contribute a large portion of total sales**, highlighting the importance of top-performing products in overall revenue generation.
+
 # Project Structure
 
 sales-analysis
