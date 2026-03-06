@@ -37,3 +37,11 @@ FROM superstore_sales
 GROUP BY [Product Name]
 ORDER BY total_sales DESC
 LIMIT 10;
+
+-- Profit by Region
+SELECT
+    Region,
+    SUM(Profit) AS total_profit
+FROM superstore_sales
+GROUP BY Region
+ORDER BY total_profit DESC;
