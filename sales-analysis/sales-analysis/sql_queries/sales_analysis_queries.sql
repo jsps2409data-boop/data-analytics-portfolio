@@ -39,3 +39,4 @@ FROM superstore_sales
 GROUP BY Product_Name
 ORDER BY total_sales DESC
 LIMIT 10;
+
