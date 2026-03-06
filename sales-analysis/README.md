@@ -17,6 +17,27 @@ The analysis aims to answer the following questions:
 - Excel
 - Power BI
 
+## Data Analysis Process
+
+The analysis followed a structured approach to transform raw sales data into actionable business insights.
+
+### 1. Data Exploration
+The dataset was first explored to understand its structure, key variables, and potential data quality issues.
+
+### 2. SQL Analysis
+SQL queries were used to analyze the dataset and answer key business questions such as:
+
+- total revenue generated
+- regional sales performance
+- category performance
+- monthly sales trends
+
+### 3. Dashboard Development
+A Power BI dashboard was created to visualize the most important sales metrics and trends.
+
+### 4. Business Insights
+The results were interpreted to identify patterns and generate insights that can support better business decisions.
+
 ## Key Metrics
 
 The dashboard analyzes:
