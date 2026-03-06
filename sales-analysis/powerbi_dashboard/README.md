@@ -14,3 +14,7 @@ The dashboard visualizes key sales metrics including:
 - Monthly Sales Trend
 
 The dashboard helps identify regional performance and product trends.
+
+## Dashboard Preview
+
+![Sales Dashboard](powerbi_dashboard/sales_dashboard.png)
