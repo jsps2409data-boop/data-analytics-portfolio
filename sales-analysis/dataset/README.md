@@ -1,19 +1,15 @@
 # Dataset
 
-This folder contains the dataset used for the Sales Performance Analysis project.
+This project uses the Superstore Sales dataset.
 
-## Dataset Description
+The dataset contains transactional retail sales data including:
 
-The dataset contains retail sales transactions including:
-
-- Order date
+- Date
 - Region
-- Product category
-- Product name
+- Category
+- Product Name
 - Sales
 - Profit
 - Quantity
 
-## Purpose
-
-The dataset is used to analyze sales performance and identify key revenue trends.
+The dataset is included in this folder to allow replication of the analysis.
