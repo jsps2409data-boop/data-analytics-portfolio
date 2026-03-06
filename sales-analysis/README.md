@@ -130,25 +130,27 @@ The analysis revealed several important patterns in the sales data:
 
 - A **small number of products contribute a large portion of total sales**, highlighting the importance of top-performing products in overall revenue generation.
 
-# Project Structure
+## Project Structure
 
+```
 sales-analysis
 │
 ├── dataset
-│ └── README.md
+│   └── README.md
 │
 ├── sql_queries
-│ ├── sales_analysis_queries.sql
-│ └── README.md
+│   ├── sales_analysis_queries.sql
+│   └── README.md
 │
 ├── powerbi_dashboard
-│ ├── sales_dashboard.png
-│ └── README.md
+│   ├── sales_dashboard.png
+│   └── README.md
 │
 ├── insights
-│ └── README.md
+│   └── README.md
 │
 └── README.md
+```
 
 # Dashboard Preview
 
