@@ -37,3 +37,7 @@ dataset → raw data used for analysis
 sql_queries → SQL scripts used for analysis  
 powerbi_dashboard → Power BI dashboard and visuals  
 insights → key business findings
+
+## Dashboard Preview
+
+![Sales Dashboard](powerbi_dashboard/sales_dashboard.png)
